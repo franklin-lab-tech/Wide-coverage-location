@@ -89,7 +89,8 @@ p {
     }
 
     header {
-        margin: 19px 286px 69px;
+
+        margin: 19px 245px 69px;
 
     }
 
@@ -110,6 +111,7 @@ p {
         height: 288px;
         margin-bottom: -153px;
         margin-left: -78px;
+        padding: 27px;
     }
 
 
@@ -128,26 +130,36 @@ p {
         line-height: 30px;
         letter-spacing: 0.6px;
         text-align: center;
-    }
-
-    p {
-        font-weight: 400;
-        font-size: 18px;
-        line-height: 33px;
-        letter-spacing: 0.5px;
-        text-align: center;
-        width: 303px;
-
-
-
-    }
-
-    .link-section {
-        text-align: center;
-
+        margin-right: 34px;
     }
 
 
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    width: 303px;
+    padding: 25px;
+
+
+}
+
+.link-section {
+    text-align: center;
+    margin-top: 1px;
+}
+
+
+
+
+
+
+
+
+
+}
 
 
 
